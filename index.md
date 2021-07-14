@@ -2,7 +2,7 @@
     <head>
         <title>Midterm Project DHML</title>
     </head>
-    <body></body>
+    <body>
         <h1>Midterm Project</h1>
         <h2>Amanda Lin, Anna Muyan Li</h2>
         <h3>Finding the locations or countries in the poems of Marianne Moore using machine learning and natural language processing.</h3>

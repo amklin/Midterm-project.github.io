@@ -20,7 +20,8 @@
         <a href="https://www.nltk.org/">NLTK Library</a><br>
         <a href="https://radimrehurek.com/gensim/">Gensim Library</a><br>
         <a href="https://spacy.io/">Spacy Library</a><br>
-        <a href="https://docs.python.org/3/library/re.html">re Library</a><br>
+        <a href="https://docs.python.org/3/library/re.html">re Library</a>
+        <br><br><br>
 
         <h3>View Our Code!</h3>
         <script src="https://gist.github.com/amklin/e43aee2b7779c658ef223dc52bc0bcc4.js"></script>

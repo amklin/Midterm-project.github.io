@@ -9,7 +9,7 @@
         <p>
             <ol>
                 <li>The method Word2Vec worked well. Our original dataset of poems was limited, so we utilized a pre-trained model from Gensim, trained on data from Google News. Their model was trained on a bigger dataset, which included place names. <br>
-                    This allowed us to find associations between a particular place name and objects associated with it. We defined an association function that would go through the list of poems and return the words with a high association to that place name, as well as the location in which those place names are found.<br>
+                    This allowed us to find associations between a particular place name and objects associated with it. We defined an association function that would go through the list of poems and return the words with a high association to that place name, as well as the poem in which those place names are found.<br>
                 </li>
             <li>Our LDA model did not work. We could not find the optimal number for the number of passes and the number of topics for LDA. Additionally, because we used the list of poems as our data, the model could not determine which nouns were location names. 
                 <br> If we wanted to improve this model, we could have tried to use an pre-trained model.</li>
